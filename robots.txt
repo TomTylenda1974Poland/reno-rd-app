@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tomtylenda1974poland.github.io/reno-rd-app/sitemap.xml
